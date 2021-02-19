@@ -32,7 +32,7 @@ public class HashCode2021 {
             // Write result to file
             System.out.println("Writing file... " + args[1]);
             Util.writeFile(args[1], result);
-
+            
         }
     }
 
