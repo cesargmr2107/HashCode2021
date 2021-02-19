@@ -8,7 +8,7 @@ import java.util.ArrayList;
 public class Problem {
 
     public Problem(ArrayList<String[]> input) {
-        // TODO: Parsing and creating models
+        //TODO: Parsing and creating models
     }
 
     public String solve() {

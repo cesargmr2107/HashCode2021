@@ -25,7 +25,7 @@ public class Util {
             scnr.close();
 
         } catch (Exception ex) {
-            System.err.println("Ha ocurrido un problema al leer el archivo");
+            System.err.println("Ha ocurrido un problema al leer el archivo:\n" + ex.getMessage());
         }
 
         return toret;
