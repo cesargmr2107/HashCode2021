@@ -16,7 +16,7 @@
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "args": "inputs/input.txt outputs/output.txt"
+            "args": "inputs/f.txt outputs/f_out.txt"
         }
     ]
 }
