@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Uwuntu
+ * @author Uwuntu oli lmao
  */
 public class Util {
 
